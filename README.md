@@ -5,7 +5,8 @@ which language to wield for his new project
 he asked his favorite language
 out of all the programming languages
 who would win them or you
-then C++ replied 
+
+then C++ replied:
 well if they were to realize how to better control 
 their memory management
 it might cause me a bit of trouble
@@ -21,7 +22,7 @@ then Rust asked him
 then C++ replied:
 "when it comes to memory management and time. 
 My coding skills are truly sublime, because throughout the globe and the internet
-I alone am the fastest one.
+I alone am the fastest one".
 
 
 
